@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UE5Arden.gen.cpp.obj": [
+			"MyActorTest.gen.cpp.obj",
+			"UE5Arden.init.gen.cpp.obj"
+		]
+	}
+}
