@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\conta\\onedrive\\escritorio\\fundamentos unreal\\repo\\fabian\\ue5ardencurso\\ue5arden\\source\\ue5arden\\ue5arden.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\conta\\onedrive\\escritorio\\fundamentos unreal\\repo\\fabian\\ue5ardencurso\\ue5arden\\intermediate\\build\\win64\\x64\\ue5ardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\conta\\onedrive\\escritorio\\fundamentos unreal\\repo\\fabian\\ue5ardencurso\\ue5arden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ue5arden\\definitions.ue5arden.h",
+            "c:\\users\\conta\\onedrive\\escritorio\\fundamentos unreal\\repo\\fabian\\ue5ardencurso\\ue5arden\\source\\ue5arden\\ue5arden.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
