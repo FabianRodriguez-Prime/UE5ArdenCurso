@@ -1491,3 +1491,6 @@ Detoured run took 1.9s
 [2025.11.26-07.27.16:728][405]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.26-07.27.16:760][405]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
 [2025.11.26-07.27.31:973][405]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/conta/OneDrive/Escritorio/Fundamentos Unreal/Repo/Fabian/UE5ArdenCurso/UE5Arden/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.26-07.29.13:137][709]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41821.187500
+[2025.11.26-07.29.13:307][712]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.26-07.29.13:307][712]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41821.328125, Update Interval: 323.053680
