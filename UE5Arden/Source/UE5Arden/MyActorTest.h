@@ -26,8 +26,17 @@ public:
 	// Ejemplo de variable de instancia publica
 	UPROPERTY(EditAnywhere,BlueprintReadWrite, Category = "MyActorTest")
 	float MyFloatVariable;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "MyActorTest")
+
+	int edad;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "MyActorTest")
+
+	bool esInstructor;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "MyActorTest")
+
+	FString nombre;
 
 	// Ejemplo de una funcion publica
-	UPROPERTY(BlueprintCallable, Category = "MyActorTest")
+	UFUNCTION(BlueprintCallable, Category = "MyActorTest")
 	void MyFunction();
 };

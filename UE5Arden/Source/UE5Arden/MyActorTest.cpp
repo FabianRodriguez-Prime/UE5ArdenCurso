@@ -9,6 +9,9 @@ AMyActorTest::AMyActorTest()
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 	MyFloatVariable = 50.0f;
+	edad = 24;
+	esInstructor = true;
+	nombre = "Fabian Rodriguez";
 }
 
 // Called when the game starts or when spawned
