@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UE5ArdenModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67d600978e447791d2a2734efbcbc7b558927913")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bc546ffe3772f986e27aa45571cbf75f37fb01d")]
 [assembly: System.Reflection.AssemblyProductAttribute("UE5ArdenModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UE5ArdenModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

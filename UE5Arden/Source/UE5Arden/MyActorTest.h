@@ -23,4 +23,7 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+	// Ejemplo de variable de instancia publica
+	UPROPERTY(EditAnywhere,BlueprintReadWrite, Category = "MyActorTest")
+	float MyFloatVariable;
 };

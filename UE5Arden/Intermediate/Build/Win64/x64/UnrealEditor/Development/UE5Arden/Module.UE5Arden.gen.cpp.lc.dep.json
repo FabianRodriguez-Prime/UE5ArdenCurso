@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\conta\\onedrive\\escritorio\\fundamentos unreal\\repo\\fabian\\ue5ardencurso\\ue5arden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ue5arden\\module.ue5arden.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\conta\\onedrive\\escritorio\\fundamentos unreal\\repo\\fabian\\ue5ardencurso\\ue5arden\\intermediate\\build\\win64\\x64\\ue5ardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\conta\\onedrive\\escritorio\\fundamentos unreal\\repo\\fabian\\ue5ardencurso\\ue5arden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ue5arden\\definitions.ue5arden.h",
+            "c:\\users\\conta\\onedrive\\escritorio\\fundamentos unreal\\repo\\fabian\\ue5ardencurso\\ue5arden\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5arden\\uht\\myactortest.gen.cpp",
+            "c:\\users\\conta\\onedrive\\escritorio\\fundamentos unreal\\repo\\fabian\\ue5ardencurso\\ue5arden\\source\\ue5arden\\myactortest.h",
+            "c:\\users\\conta\\onedrive\\escritorio\\fundamentos unreal\\repo\\fabian\\ue5ardencurso\\ue5arden\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5arden\\uht\\myactortest.generated.h",
+            "c:\\users\\conta\\onedrive\\escritorio\\fundamentos unreal\\repo\\fabian\\ue5ardencurso\\ue5arden\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5arden\\uht\\ue5arden.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
