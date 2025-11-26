@@ -26,4 +26,8 @@ public:
 	// Ejemplo de variable de instancia publica
 	UPROPERTY(EditAnywhere,BlueprintReadWrite, Category = "MyActorTest")
 	float MyFloatVariable;
+
+	// Ejemplo de una funcion publica
+	UPROPERTY(BlueprintCallable, Category = "MyActorTest")
+	void MyFunction();
 };
