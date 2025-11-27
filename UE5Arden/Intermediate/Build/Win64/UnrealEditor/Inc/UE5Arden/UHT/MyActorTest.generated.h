@@ -18,7 +18,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class AMyActorTest *************************************************************
 #define FID_Users_conta_OneDrive_Escritorio_Fundamentos_Unreal_Repo_Fabian_UE5ArdenCurso_UE5Arden_Source_UE5Arden_MyActorTest_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	DECLARE_FUNCTION(execMyFunction);
+	DECLARE_FUNCTION(execDemostrateFundamentals);
 
 
 UE5ARDEN_API UClass* Z_Construct_UClass_AMyActorTest_NoRegister();

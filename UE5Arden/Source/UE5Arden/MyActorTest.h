@@ -38,5 +38,5 @@ public:
 
 	// Ejemplo de una funcion publica
 	UFUNCTION(BlueprintCallable, Category = "MyActorTest")
-	void MyFunction();
+	void DemostrateFundamentals();
 };

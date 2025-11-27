@@ -28,7 +28,22 @@ void AMyActorTest::Tick(float DeltaTime)
 
 }
 
-void AMyActorTest::MyFunction()
+void AMyActorTest::DemostrateFundamentals()
 {
+	// Operadores aritmeticos
+	int32 sum = edad + 30;
+	float product = MyFloatVariable * 2.5f;
+
+	// Estructuras de control
+	if (esInstructor) {
+		//Imprime en consola
+		UE_LOG(LogTemp, Warning, TEXT("%s es instructor y tiene %d años") *nombre, edad);
+		//Imprime en pantalla/ viewport
+		GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Yellow, FString::Printf(TEXT("%s es instructor y tiene %d años") *nombre, edad));
+	}
+	else {
+		UE_LOG(LogTemp, Warning, TEXT("%s no es instructor y tiene %d años") * nombre, edad);
+		GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Yellow, FString::Printf(TEXT("%s No es instructor y tiene %d años") * nombre, edad));
+	}
 }
 
